@@ -1,5 +1,3 @@
-# test_svg
-svg_change_color
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dh_white.svg">
